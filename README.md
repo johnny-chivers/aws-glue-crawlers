@@ -9,7 +9,7 @@
 
 ## What's included
 
-The repo is to supplement the [youtube video](https://youtu.be/yb7dAQl1Di8) on AWS Glue. 
+The repo is to supplement the [youtube video](https://youtu.be/L8Uwh3U3s9Y) on AWS Glue. 
 
 You will need an AWS User that has permissions to access S3 and Glue. I am using my Admin account to carry out the tutorial. 
 
@@ -57,7 +57,7 @@ Below is the schema for the customer table which is created in the Glue Data Cat
 
 ## Useful Links
 
-- [youtube video](https://youtu.be/yb7dAQl1Di8) 
+- [youtube video](https://youtu.be/L8Uwh3U3s9Y) 
 - [website](https://www.johnnychivers.co.uk)
 - [buy me a coffee](https://www.buymeacoffee.com/johnnychivers)
 
